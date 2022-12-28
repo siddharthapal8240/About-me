@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Siddhartha Pal
+- 👀 I’m interested in Web development,App development,AIML & and interested to know more about new technologies.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web development projects.
+- 📫 How to reach me?
+-           Contact me on mail- siddhartha.pal.official@gmail.com
+-           or contact me on linkedIn- siddharthapal1234
